@@ -458,6 +458,7 @@
 }
 body {
     font-family: Arial, sans-serif;
+    background: linear-gradient(90deg,#c9b9b1,#d7beb0,#8b796e);
 }
 
 .slideshow-container {
@@ -465,6 +466,7 @@ body {
     max-width: 600px;
     margin: auto;
     overflow: hidden;
+  
 }
 
 .slide {
